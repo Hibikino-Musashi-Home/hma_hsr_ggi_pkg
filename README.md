@@ -29,3 +29,8 @@ Hibikino-Musashi@HomeのRoboCup@Home DSPL Go Get It Unknown Enviromentタスク�
 ### マニピュレータ情報
 地点に到着後，一般物体検出によって検出された物体に対して把持動作を行い，重量・サイズ・変形率を求める．  
 そして，学習済のベクトルと比較し，ユークリッド距離が閾値以下の場合その地点にて学習された物体とし，オペレータに持ち帰る．  
+
+
+## 詳細
+本手順は，下記PDFファイルにより詳細にまとめた．
+[https://github.com/hibikino-musashi-athome/hma_hsr_ggi_pkg/blob/master/doc/rcj18_dspl.pdf](https://github.com/hibikino-musashi-athome/hma_hsr_ggi_pkg/blob/master/doc/rcj18_dspl.pdf)
